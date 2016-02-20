@@ -1,3 +1,5 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheStreamStats.svg?style=social?style=flat-square)](http://twitter.com/TheStreamStats)
+
 | StreamStats |Description   |
 | ------------- |:-------------:|
 | [BeamStats](http://streamstats.github.io/BeamStats/)      | Stats For [Beam](https://beam.pro) |
